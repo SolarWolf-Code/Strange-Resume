@@ -2,10 +2,12 @@
 layout: cv
 title: Bradley Strange's Resume
 ---
+# Bradley Strange
+
 Current student at Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="str20003@byui.edu">dstr20003@byui.edu</a>
+<a href="str20003@byui.edu">str20003@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/brad-strange-75313619b/">LinkedIn</a>
 </div>
