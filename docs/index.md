@@ -1,84 +1,50 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Bradley Strange's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Current student at Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="str20003@byui.edu">dstr20003@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/brad-strange-75313619b/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected Fall 2023`
+__Brigham Young University - Idaho__,
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- 3.0 Major GPA
 
 
 ## Related Experience
+__Accessibility Resource Agent | Brigham Young University-Idaho | Rexburg, ID	July 2021 - Present__
+Created a more accessible place for students that are less fortunate. 
+-	Used Adobe Acrobat DC and Microsoft Word to verify accessibility that follows the Web Content Accessibility Guidelines (WCAG)
+-	Preformed accurate and hasty video transcripts and captions for BYU-I’s campus videos
+-	Tested websites and documents via screen recorders such as JAWS and VoiceOver
 
-### Internships
+__Delivery Driver | Amazon | Denver, CO	March 2019 - March 2020__
+Worked as an Amazon Flex driver to deliver amazon food products safely and in a timely manner.
+-	Arrived at waiting checkpoint on time with full gas to maximize trip efficacy
+-	Used the mobile application to access orders and track inventory
+-	Never delivered a late shipment despite the severe weather conditions at the time
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Delivery Driver | GrubHub | Denver, CO May 2018 - March 2020__
+Delivered fast food to customers within a specified area.
+-	Collected delivery instructions from appropriate sources, verifying instructions and routes.
+-	Demonstrated solid commitment to safe work practices and organizational initiatives regarding safety.
+-	Remained in constant communication with the Dispatch department.
+ 
+__Remote - Debug Agent | WizWalker - Automated Game Software September 2021 - Present__
+Created backend software to control actions inside a game’s engine without compromising user’s account
+-	Found security flaws within the game’s engine and server connection to allow for code injection
+-	Used data to predict what a user should do, early model of reinforcement learning
+-	Designed aspects of the project with prior knowledge of the game to create the most effective programs
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
